@@ -3,9 +3,9 @@
  */
 export const hosts = {
   // dev
-  pk: `http://${window.location.hostname}:6080`,
+  // pk: `http://${window.location.hostname}:6080`,
   // prod
-  // pk: `https://pizzak.herokuapp.com`
+  pk: `https://pizzak.herokuapp.com`
 
 };
 
